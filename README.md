@@ -8,7 +8,7 @@
   ![rust](https://badgen.net/badge/python/3.12.3/blue?scale=1.0)
   ![rust](https://badgen.net/badge/pip/26.0.1/green?scale=1.0)
   <br/>
-  [![GitHub stars](https://img.shields.io/github/stars/kenniston/digital-libary.svg?style=social&label=Star&maxAge=1)](https://github.com/kenniston/digital-libary/)
+  [![GitHub stars](https://img.shields.io/github/stars/kenniston/digital-library.svg?style=social&label=Star&maxAge=1)](https://github.com/kenniston/digital-libary/)
   <br>Support us with a ⭐ !
 
 </div>
