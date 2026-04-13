@@ -203,8 +203,6 @@ If you only want to start Jupyter and choose the file in the browser:
 jupyter notebook
 ```
 
-
-
 ---
 ## 📄 License
   
