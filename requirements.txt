@@ -4,3 +4,5 @@ matplotlib
 ttkbootstrap
 pandastable
 pandas
+plotly
+kaleido
