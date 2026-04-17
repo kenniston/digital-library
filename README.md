@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img alt="Rust Microservice" src="assets/digital-library.jpg"/>
+  <img alt="Digital Library" src="assets/digital-library.jpg"/>
 
   <h1></h1>
   <h3>Digital Library with Python</h3>
 
-  ![rust](https://badgen.net/badge/python/3.12.3/blue?scale=1.0)
-  ![rust](https://badgen.net/badge/pip/26.0.1/green?scale=1.0)
+  ![python](https://badgen.net/badge/python/3.12.3/blue?scale=1.0)
+  ![pip](https://badgen.net/badge/pip/26.0.1/green?scale=1.0)
   <br/>
   [![GitHub stars](https://img.shields.io/github/stars/kenniston/digital-library.svg?style=social&label=Star&maxAge=1)](https://github.com/kenniston/digital-libary/)
   <br>Support us with a ⭐ !
