@@ -119,7 +119,7 @@ Make sure you have Python 3.12 or higher installed:
 - **Linux (Ubuntu/Debian)**
   ```bash
   sudo apt update
-  sudo apt install python3.12 python3.12-venv python3.12-dev
+  sudo apt install python3.12 python3.12-venv python3.12-dev python3-tk
   ```
 
 - **macOS (Homebrew)**
@@ -134,6 +134,27 @@ Make sure you have Python 3.12 or higher installed:
   > ⚠️ Make sure to check "Add Python to PATH" during installation.
 
 <br/>
+
+---
+#### 📦 Install Tk Inter
+- **Windows**
+Tkinter is usually bundled with the official installer from Python.org.
+If it is missing, rerun the installer, select Modify, and ensure the "tcl/tk and IDLE" 
+checkbox is checked.
+
+
+- **macOS**
+
+```bash
+brew install python-tk
+```
+
+- **Linux (Ubuntu/Debian)**
+
+```bash
+sudo apt-get update
+sudo apt-get install python3-tk
+```
 
 ---
 #### 🧪 Create Virtual Environment (venv)
@@ -185,6 +206,12 @@ To confirm the dependencies were installed successfully:
 
 ```bash
 pip list
+```
+
+**Install Kaleido Chrome to Render Charts**
+
+```bash
+kaleido_get_chrome
 ```
 
 ---
